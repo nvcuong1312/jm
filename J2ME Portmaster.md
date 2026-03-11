@@ -79,6 +79,8 @@ Cấu trúc thư mục:
      ├── 240x320/
      ├── 320x240/
      └── 640x360/
+
+(muOS: /Ports/JM/Jars/...)
 ```
 
 Đây là nơi bạn cần chép các game `.jar`.
