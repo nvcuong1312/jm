@@ -40,7 +40,7 @@ Bạn cần:
 
 ---
 
-## 3. Cài đặt
+## 3. Cài đặt (https://www.youtube.com/watch?v=td3nloliBgg)
 
 ### Bước 1: Chép JM vào thư mục autoinstall của PortMaster
 
