@@ -35,7 +35,7 @@ Bạn cần:
 - Máy game cổ hỗ trợ **PortMaster** (ArkOS, JELOS,…)
 - Đã cài PortMaster
 - Game J2ME định dạng `.jar`
-- Gói JM.zip ở đây [Link quảng cáo](https://shrinkme.click/J2me) / Hoặc JM.zip trong mục Release
+- Gói JM.zip trong mục Release
 
 
 ---
