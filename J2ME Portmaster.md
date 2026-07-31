@@ -114,6 +114,7 @@ Vào **Game Ports → JM Launcher**
 | X | Play - 60fps (một số game khó nhập text ở chế độ này) |
 | B | Exit |
 | Start | Xoá file map phím |
+| Select | Đổi chế độ render |
 | D-Pad | Di chuyển |
 
 ---
