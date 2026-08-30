@@ -185,6 +185,19 @@ Hãy bấm lần lượt theo hướng dẫn trên màn hình.
 
 ---
 
+### Một số game nhập liệu sẽ mở màn hình nhập riêng, khi đó ta sẽ sử dụng như sau
+
+| Phím điện thoại | Tác dụng |
+|-----------------|-------------|
+| OK | Xác nhận |
+| * | Xoá ký tự |
+| # | Thêm ký tự |
+| 2, 4 | Chọn ký tự a -> z |
+| 1, 3 | Chọn số từ 0 -> 9 |
+| 7, 9 | Chọn ký tự đặc biệt |
+
+---
+
 ## 5. Lưu ý về phiên bản chia sẻ
 
 Phiên bản JM mình chia sẻ trong bài viết này có watermark trong quá trình sử dụng.
