@@ -10,7 +10,7 @@ Game Java (J2ME) từng là tuổi thơ của rất nhiều người với các 
 - Avatar  
 - Diamond Rush
 
-  <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/403a4c4c-4f38-4cf9-8f20-037bb47ab0ed" />
+  <img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/403a4c4c-4f38-4cf9-8f20-037bb47ab0ed" />
 
 
 Tuy nhiên ngày nay rất khó để chơi lại trên điện thoại cũ.
@@ -219,7 +219,8 @@ Nếu bạn muốn sử dụng phiên bản không watermark, vui lòng liên h�
 Thông tin liên hệ:
 
 - Telegram: @cuongnv1312  
-- YouTube: @YeuRetroHandheld  
+- YouTube: @YeuRetroHandheld
+- Discord: https://discord.gg/HvX5Z6cbN3
 
 ---
 
