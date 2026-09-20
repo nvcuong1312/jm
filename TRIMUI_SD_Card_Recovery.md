@@ -76,3 +76,9 @@ https://github.com/nvcuong1312/jm/blob/main/TRIMUI_SD_Card_Setup.md
 ## Hoàn tất
 
 Sau khi thực hiện đầy đủ các bước trên, bộ nhớ trong của máy Trimui sẽ được khôi phục theo firmware Recovery tương ứng với nhà sản xuất.
+
+## Tham gia discord để được nhận thêm hỗ trợ
+https://discord.gg/a6xfppEb5C
+
+<img width="176" height="169" alt="image" src="https://github.com/user-attachments/assets/c5a07f9f-8852-4574-9b6c-6d0fb041401b" />
+
