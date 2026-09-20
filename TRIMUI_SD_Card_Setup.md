@@ -68,6 +68,7 @@ https://github.com/trimui/assets_brick/releases
 ---
 
 ## 3️⃣ CÀI ĐẶT PORTMASTER (TÙY CHỌN)
+(MỤC NÀY TRIMUI SMARTPRO S KHÔNG ĐƯỢC LÀM THEO NHÉ VÌ GÂY XUNG ĐỘT LỖI WIFI)
 
 > 📝 Mục 3 và 4 chỉ cần thực hiện nếu bạn muốn cài đặt và chơi game Ports.
 
