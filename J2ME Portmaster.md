@@ -73,7 +73,7 @@ https://portmaster.games/faq.html
 Cấu trúc thư mục:
 
 ```
-/roms/ports/JM/
+JM/
  └── Jars/
      ├── 128x128/
      ├── 240x320/
