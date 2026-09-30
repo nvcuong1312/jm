@@ -24,16 +24,13 @@ Sau khi tải file `.zip`, hãy giải nén và sao chép các tệp vào đúng
 ### Các tệp cần sao chép
 
 - Thư mục `JM`
-- Thư mục `Data/ports/`
-- File `JM.sh` vào thư mục `Roms/Ports/`
+- File `JM.sh`
 
 ### Các bước thực hiện
 
 1. Giải nén file `JM_1.0.5_nextUI_TrimUI_StockOS.zip`.
-2. Sao chép thư mục `JM` và `Data/ports/` vào thẻ nhớ.
+2. Sao chép thư mục `JM` vào `Data/ports/` của thẻ nhớ.
 3. Sao chép file `JM.sh` vào thư mục `Roms/Ports/`.
-4. Nếu thư mục `Data/ports/` hoặc `Roms/Ports/` chưa tồn tại, bạn có thể tạo thủ công.
-5. Kiểm tra lại vị trí các file trước khi khởi động máy.
 
 ## 4. Khởi động và mở JM
 
