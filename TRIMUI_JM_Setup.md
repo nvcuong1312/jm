@@ -27,6 +27,8 @@ Truy cập đường dẫn GitHub Releases để tải phiên bản JM tương �
 ## Hoàn tất
 Tham khảo cách sử dụng tại đây: [Hướng dẫn sử dụng](https://github.com/nvcuong1312/jm/blob/main/J2ME%20Portmaster.md#4-c%C3%A1ch-s%E1%BB%AD-d%E1%BB%A5ng)
 
+Lưu ý khi map phím: L2, R2 thì hãy chọn 2 phím trắng nhỏ mặt trên nhé.
+
 ## Tham gia discord để được nhận thêm hỗ trợ
 https://discord.gg/a6xfppEb5C
 
