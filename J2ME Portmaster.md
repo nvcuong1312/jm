@@ -101,7 +101,10 @@ Game 128x128 → /roms/ports/JM/Jars/128x128/
 Vào **Game Ports → JM Launcher**
 
 ---
-<img width="640" height="480" alt="muOS_20260212_1344_0" src="https://github.com/user-attachments/assets/a2bed35e-0ff3-4b52-8cad-9547ab09b166" />
+
+
+https://github.com/user-attachments/assets/da29a013-cf84-4ed5-b0f2-b8e7596f55ed
+
 
 
 ## Điều khiển cơ bản
