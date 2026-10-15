@@ -7,13 +7,13 @@ Hướng dẫn cài đặt **JM (FreeJ2ME)** trên hệ điều hành Trimui Sto
 Truy cập đường dẫn GitHub Releases để tải phiên bản JM tương ứng:
 
 - **Trang tải:** [JM Releases](https://github.com/nvcuong1312/jm/releases/tag/1)
-- **Tên file:** `JM_1.0.7_TrimUI_StockOS_Apps.zip`
+- **Tên file:** `JM_x.x.x_TrimUI_StockOS_Apps.zip`
 
 ## 2. Giải nén và sao chép file
 
 ### Các bước thực hiện
 
-1. Giải nén file `JM_1.0.7_TrimUI_StockOS_Apps.zip`.
+1. Giải nén file `JM_x.x.x_TrimUI_StockOS_Apps.zip`.
 2. Sao chép thư mục `JM` vào `Apps/` của thẻ nhớ.
 
 ## 3. Khởi động và mở JM
