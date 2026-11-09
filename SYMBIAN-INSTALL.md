@@ -86,3 +86,9 @@ Trong chế độ Keypad, mặc định:
 - YouTube: @YeuRetroHandheld
 - Discord: https://discord.gg/HvX5Z6cbN3
 - Ủng hộ: https://ko-fi.com/alcavic
+
+
+
+https://github.com/user-attachments/assets/c51df280-63f4-48b2-b002-e96b9da94339
+
+
