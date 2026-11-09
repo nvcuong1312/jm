@@ -10,7 +10,7 @@ Game Java (J2ME) từng là tuổi thơ của rất nhiều người với các 
 - Avatar  
 - Diamond Rush
 
-  <img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/403a4c4c-4f38-4cf9-8f20-037bb47ab0ed" />
+  <img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/403a4c4c-4f38-4cf9-8f20-037bb47ab0ed" />
 
 
 Tuy nhiên ngày nay rất khó để chơi lại trên điện thoại cũ.
@@ -70,31 +70,15 @@ https://portmaster.games/faq.html
 
 ### Chép game
 
-Cấu trúc thư mục:
+Cấu trúc thư mục của JM:
 
 ```
 JM/
- └── Jars/
-     ├── 128x128/
-     ├── 240x320/
-     ├── 320x240/
-     └── 640x360/
-
-(muOS: /Ports/JM/Jars/...)
+ └── games/
+     ├── symbian/    # Nơi đặt game symbian
+     └── j2me/       # Nơi đặt game java
 ```
 
-Đây là nơi bạn cần chép các game `.jar`.
-
-Game J2ME được thiết kế theo độ phân giải màn hình điện thoại đời cũ.  
-Vì vậy bạn cần chép game vào đúng thư mục tương ứng.
-
-Ví dụ:
-
-```
-Game 128x128 → /roms/ports/JM/Jars/128x128/
-```
-
----
 
 ### Mở JM Launcher
 
